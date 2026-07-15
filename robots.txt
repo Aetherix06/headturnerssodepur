@@ -1,0 +1,7 @@
+# robots.txt for Head Turners Salons
+User-agent: *
+Allow: /
+
+# Host & Sitemap definition
+Host: https://headturnerssalons.com
+Sitemap: https://headturnerssalons.com/sitemap.xml
